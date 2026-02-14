@@ -52,6 +52,9 @@ It combines Signature-Based Detection using SHA-256 hashing with Heuristic Analy
 - Cloud Signature Updates
 
 ---
+## 📸 Sample Output
+![Scan Output](Screenshot 2026-02-14 174049.png)
+
 
 ## Author
 Prachi Tank
