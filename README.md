@@ -53,7 +53,7 @@ It combines Signature-Based Detection using SHA-256 hashing with Heuristic Analy
 
 ---
 ## 📸 Sample Output
-![Scan Output](Screenshot 2026-02-14 174049.png)
+![Scan Output](scan-output.png)
 
 
 ## Author
